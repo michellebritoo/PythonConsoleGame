@@ -1,0 +1,2 @@
+# myPythonProjects
+Python programming studies.
