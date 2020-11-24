@@ -1,2 +1,2 @@
-# myPythonProjects
-Python programming studies.
+# Python project studies
+## Hangman game with Python
